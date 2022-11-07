@@ -8,7 +8,7 @@
   - composer install 
   
 ### Commands
-    - php artisan make:command GetAppointments
+    - php artisan schedule:appointments
 
 ### Notes 
 
